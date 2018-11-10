@@ -3,8 +3,8 @@ import React, { Component } from "react";
 class Login extends Component {
   state = {
     user: {
-      email: "",
-      password: ""
+      email: "lenin3636@gmail.com",
+      password: "lenin"
     }
   };
 
